@@ -11,7 +11,7 @@ Tamaanic explores the unseen architecture of thought and emotion using subtle in
 
 ---
 
-##‎Attribution
+##‎ Attribution
 ‎
 ‎Tamaanic Healing is an original metaphysical healing methodology developed and practiced by
 ‎Syed Waleed Mehboob Ali, under the foundational research institute:
