@@ -1,8 +1,8 @@
-<!-- Meta Tags for Tamaanic GitHub README -->
+<!-- Meta Tags for Tamaanic – Symbol of Wellness -->
 
 <!-- General -->
 <meta name="title" content="Tamaanic – Symbol of Wellness">
-<meta name="description" content="Tamaanic is a brain-based non-verbal healing method developed by Syed Waleed Mehboob Ali, aligning heart and mind through energetic and cognitive influence.">
+<meta name="description" content="Tamaanic is a brain-based, non-verbal healing method developed by Syed Waleed Mehboob Ali, aligning heart and mind through energetic and cognitive influence.">
 
 <!-- Author -->
 <meta name="author" content="Syed Waleed Mehboob Ali">
@@ -10,17 +10,18 @@
 <!-- Keywords -->
 <meta name="keywords" content="Tamaanic, Syed Waleed Mehboob Ali, Wellness, Healing, Brain-Based Healing, Cognitive Holographic Mapping, Energetic Alignment, Spiritual Healing, Mind-Heart Alignment, CODAS, Consciousness, Non-verbal Healing, Thought Influence, Remote Healing, Mental Architecture, Meta-Healing, Holistic Wellness, Inner Peace, Healing Method">
 
-<!-- Social Media -->
+<!-- Open Graph / Facebook -->
 <meta property="og:title" content="Tamaanic – Symbol of Wellness">
 <meta property="og:description" content="Explore Tamaanic, a unique wellness system that blends energetic healing, brain alignment, and spiritual perception. Developed by Syed Waleed Mehboob Ali under CODAS.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://github.com/[your-username]/tamaanic">
-<meta property="og:image" content="https://yourdomain.com/tamaanic-cover.jpg">
+<meta property="og:url" content="https://tamaanic.vercel.app">
+<meta property="og:image" content="https://tamaanic.vercel.app/og-image.jpg">
 
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Tamaanic – Symbol of Wellness">
 <meta name="twitter:description" content="A brain-based healing model focused on subtle influence, mental architecture, and wellness.">
-<meta name="twitter:image" content="https://yourdomain.com/tamaanic-cover.jpg">
+<meta name="twitter:image" content="https://tamaanic.vercel.app/og-image.jpg">
 
 # Tamaanic — طمانک  
 **Symbol of Wellness | A Healing Method by Syed Waleed Mehboob Ali**
