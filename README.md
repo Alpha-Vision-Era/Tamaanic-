@@ -11,28 +11,14 @@ Tamaanic explores the unseen architecture of thought and emotion using subtle in
 
 ---
 
-##‎ Attribution
-‎
-‎Tamaanic Healing is an original metaphysical healing methodology developed and practiced by
-‎Syed Waleed Mehboob Ali, under the foundational research institute:
-‎Center of Divine Architecture Studies (CODAS).
-‎
-‎This method is part of the Human Mapping (HM) branch within the CODAS framework and integrates insights from:
-‎
-‎Cognitive Holographic Mapping (CHM) for decoding inner symbolic architecture
-‎
-‎Consciousness Mapping (CM) for understanding the flow of perception and influence
-‎
-‎Energetic and Intuitive Healing rooted in symbolic realignment, divine trust, and spiritual design
-‎
-‎
-‎All core concepts, case studies, theoretical mappings, and applications of Tamaanic Healing are attributed solely to Syed Waleed Mehboob Ali, unless otherwise noted or referenced.
-‎
-‎Usage, citation, or adaptation of Tamaanic Healing, whether academically, spiritually, or in practice, must reference:
-‎
-‎Syed Waleed Mehboob Ali
-‎Founder of CODAS
-‎Developer of Tamaanic Healing
+## Attribution
+
+Tamaanic – Symbol of Wellness
+Developed and authored by Syed Waleed Mehboob Ali, Founder of CODAS (Center of Divine Architecture Studies).
+
+All concepts, case studies, healing methods, and terminologies including Cognitive Holographic Mapping (CHM) and its extensions are original intellectual property unless otherwise stated.
+
+All rights reserved. Use, citation, or adaptation must credit the original developer
 ‎
 ---
 
