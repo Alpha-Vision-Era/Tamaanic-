@@ -45,7 +45,6 @@ Syed Waleed Mehboob Ali
 Founder – CODAS
 Developer – Tamaanic
 Official Email: tamaanic@gmail.com
-Official Website: tamaanic.vercel.app
 
 Tamaanic's research, publication, and community operations function as sub-departments under CODAS’ institutional framework.
 
