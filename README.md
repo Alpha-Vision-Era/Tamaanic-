@@ -38,10 +38,16 @@ Tamaanic explores the unseen architecture of thought and emotion using subtle in
 
 ## Attribution
 
-Tamaanic – Symbol of Wellness
-Developed and authored by Syed Waleed Mehboob Ali, Founder of CODAS (Center of Divine Architecture Studies).
+Tamaanic is a healing methodology and research initiative developed under the Center of Divine Architecture Studies (CODAS).
+All intellectual, conceptual, and structural elements have been created and documented by:
 
-All concepts, case studies, healing methods, and terminologies including Cognitive Holographic Mapping (CHM) and its extensions are original intellectual property unless otherwise stated.
+Syed Waleed Mehboob Ali
+Founder – CODAS
+Developer – Tamaanic
+Official Email: tamaanic@gmail.com
+Official Website: tamaanic.vercel.app
+
+Tamaanic's research, publication, and community operations function as sub-departments under CODAS’ institutional framework.
 
 All rights reserved.
 ‎
