@@ -2,17 +2,17 @@
 
 <!-- General -->
 <meta name="title" content="Tamaanic – Symbol of Wellness">
-<meta name="description" content="Tamaanic is a brain-based, non-verbal healing method developed by Syed Waleed Mehboob Ali, aligning heart and mind through energetic and cognitive influence.">
+<meta name="description" content="Tamaanic is a heart mind alignment based healing method, non-verbal healing method developed by Syed Waleed Mehboob Ali, aligning heart and mind through energetic and cognitive influence.">
 
 <!-- Author -->
 <meta name="author" content="Syed Waleed Mehboob Ali">
 
 <!-- Keywords -->
-<meta name="keywords" content="Tamaanic, Syed Waleed Mehboob Ali, Wellness, Healing, Brain-Based Healing, Cognitive Holographic Mapping, Energetic Alignment, Spiritual Healing, Mind-Heart Alignment, CODAS, Consciousness, Non-verbal Healing, Thought Influence, Remote Healing, Mental Architecture, Meta-Healing, Holistic Wellness, Inner Peace, Healing Method">
+<meta name="keywords" content="Tamaanic, Syed Waleed Mehboob Ali, Wellness, Healing, Heart Mind Alignment, Cognitive Holographic Mapping, Energetic Alignment, Spiritual Healing, Heart Mind Alignment Based Healing, CODAS, Consciousness, Non-verbal Healing, Thought Influence, Remote Healing, Mental Architecture, Meta-Healing, Holistic Wellness, Inner Peace, Healing Method">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:title" content="Tamaanic – Symbol of Wellness">
-<meta property="og:description" content="Explore Tamaanic, a unique wellness system that blends energetic healing, brain alignment, and spiritual perception. Developed by Syed Waleed Mehboob Ali under CODAS.">
+<meta property="og:description" content="Explore Tamaanic, a unique wellness system that blends energetic healing, heart mind alignment, and spiritual perception. Developed by Syed Waleed Mehboob Ali under CODAS.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tamaanic.vercel.app">
 <meta property="og:image" content="https://tamaanic.vercel.app/og-image.jpg">
@@ -32,7 +32,7 @@ Tamaanic is a metaphysical healing method developed under the *Center of Divine 
 
 ## Core Concept
 
-Tamaanic explores the unseen architecture of thought and emotion using subtle influence, intuitive mapping, and spiritual cognition. It does **not rely on hypnosis, talk therapy, or traditional healing methods**. Instead, it utilizes **brain-based energy alignment** and **silent perceptual intervention** to clear inner blockages.
+Tamaanic explores the unseen architecture of thought and emotion using subtle influence, intuitive mapping, and spiritual cognition. It does **not rely on hypnosis, talk therapy, or traditional healing methods**. Instead, it utilizes **heart mind alignment** and **silent perceptual intervention** to clear inner blockages.
 
 ---
 
@@ -47,9 +47,52 @@ All rights reserved. Use, citation, or adaptation must credit the original devel
 ‎
 ---
 
+# Tamaanic Organizational Structure
+
+## Overview
+
+**Tamaanic** is a metaphysical healing methodology founded by **Syed Waleed Mehboob Ali**. It functions under the **Center of Divine Architecture Studies (CODAS)** and is structured across three key sub-departments: **Research**, **Publication**, and **Community**. Each sub-department aligns with one of CODAS’s primary operational pillars.
+
+---
+
+## Organizational Hierarchy
+
+### 1. Tamaanic Research
+**Sub-department of:** CODAS Research Center
+
+**Responsibilities:**
+- Conducts theoretical exploration
+- Documents case studies
+- Tests framework hypotheses
+- Supports the structural basis of Tamaanic healing
+
+---
+
+### 2. Tamaanic Publication
+**Sub-department of:** CODAS Publication Center
+
+**Responsibilities:**
+- Disseminates validated content
+- Publishes public-facing documents
+- Maintains academic and open-access profiles
+- Preserves documentation integrity
+
+---
+
+### 3. Tamaanic Community
+**Sub-department of:** CODAS Mentorship & Community Center
+
+**Responsibilities:**
+- Offers mentorship programs
+- Trains future healers and researchers
+- Engages with community healing cases
+- Operates feedback and impact sessions
+
+---
+
 ## Case Studies
 
-> Over 9 documented healing cases ranging from family conflict resolution, sales alignment, spiritual interference removal, and remote possession clearance.
+> Documented healing cases ranging from family conflict resolution, sales alignment, spiritual interference removal, and remote possession clearance.
 
 Read detailed case studies in the PDF or on publication platforms listed below.
 
@@ -113,6 +156,6 @@ For collaboration, mentorship, or healing sessions, reach out via email.
 
 ## Tags
 
-`Healing` `Wellness` `Spiritual Mapping` `Energetic Alignment` `Non-verbal Influence` `Heart-Mind Architecture` `CODAS` `Tamaanic` `Symbol of Wellness`
+`Healing` `Wellness` `Spiritual Mapping` `Energetic Alignment` `Non-verbal Influence` `Heart Mind Alignment` `Sacred Architecture` `CODAS` `Tamaanic` `Symbol of Wellness` `Meta Physical` `CHM` 
 
 ---
