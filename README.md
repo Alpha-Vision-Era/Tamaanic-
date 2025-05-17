@@ -43,8 +43,33 @@ Developed and authored by Syed Waleed Mehboob Ali, Founder of CODAS (Center of D
 
 All concepts, case studies, healing methods, and terminologies including Cognitive Holographic Mapping (CHM) and its extensions are original intellectual property unless otherwise stated.
 
-All rights reserved. Use, citation, or adaptation must credit the original developer
+All rights reserved.
 ‎
+---
+
+## Rights
+
+This repository and all of its contents are the intellectual property of **Syed Waleed Mehboob Ali**, founder of the **Center of Divine Architecture Studies (CODAS)** and the creator of the **Tamaanic Healing Method**.
+
+**All Rights Reserved.**
+
+- No part of this material may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any form or by any means without explicit written permission.
+- Unauthorized use, replication, or misrepresentation of the concepts, language, frameworks, or designs within this project is strictly prohibited.
+- Public viewing and academic sharing are allowed **only with proper and visible attribution** to:  
+  **Syed Waleed Mehboob Ali, CODAS, Tamaanic Project**
+
+### Institutional Acknowledgment
+This work is developed under the spiritual, philosophical, and metaphysical research framework of **CODAS (Center of Divine Architecture Studies)**. All sub-departments (Tamaanic Research, Publication, and Community) operate under CODAS authorization.
+
+For citations, academic usage, collaboration requests, or permissions, contact:  
+**tamaanic@gmail.com**
+
+Official website: [https://tamaanic.vercel.app](https://tamaanic.vercel.app)
+
+---
+
+© All rights reserved – Syed Waleed Mehboob Ali | CODAS | Tamaanic Project
+
 ---
 
 # Tamaanic Organizational Structure
@@ -140,10 +165,23 @@ Founder of CODAS | Businessman (Marble & Construction Sector)
 
 ## License
 
-> **No formal open-source license yet.**  
-> All rights reserved by Syed Waleed Mehboob Ali.  
-> Reuse or redistribution requires written permission.  
-> A Creative Commons license may be added in the future.
+All original content in this repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** License.
+
+This means:
+
+- **Attribution is required** – Proper credit must be given to **Syed Waleed Mehboob Ali** and the **Center of Divine Architecture Studies (CODAS)**.
+- **NonCommercial use only** – This work may not be used for commercial purposes without explicit written permission.
+- **No Derivatives** – You may not remix, transform, or build upon the material. Sharing must be in its original, unmodified form.
+
+### Key Rights Reserved by the Author:
+- Intellectual authorship and metaphysical design framework belong solely to **Syed Waleed Mehboob Ali**, the founder of **CODAS** and the originator of the Tamaanic healing method.
+- Unauthorized reproduction, modification, or redistribution in altered forms is strictly prohibited.
+
+For permissions or inquiries, please contact: **tamaanic@gmail.com**
+
+> Learn more about CODAS and its sub-departments at [tamaanic.vercel.app](https://tamaanic.vercel.app)
+
+To view the full license, visit: [Creative Commons License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
