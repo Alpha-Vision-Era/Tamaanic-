@@ -42,6 +42,7 @@ Tamaanic is a healing methodology and research initiative developed under the Ce
 All intellectual, conceptual, and structural elements have been created and documented by:
 
 Syed Waleed Mehboob Ali
+Businessman - Marble and Construction Sector
 Founder – CODAS
 Developer – Tamaanic
 Official Email: tamaanic@gmail.com
